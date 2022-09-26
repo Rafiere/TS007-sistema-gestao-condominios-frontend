@@ -1,0 +1,6 @@
+#Esses serão os arquivos que o Prettier não formatará.
+
+[Bb]uild*
+[Dd]ist*
+[Bb]in*
+package-lock.json
